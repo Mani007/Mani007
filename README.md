@@ -6,7 +6,7 @@ Senior Software Engineer | Backend-Focused Full-Stack | Python, C/C++, JS | 10+ 
 
 Senior Software Engineer with 10+ years of experience in Python, C/C++, and modern JavaScript stacks. Backend-focused full-stack developer with a strong foundation in computational mathematics, machine learning from scratch, and competitive programming. Known for turning messy, AI-generated or legacy code into clean, scalable systems.
 
-* 🌍  I'm based in Portugal
+* 🌍  I'm based in Europe
 * 🖥️  See my portfolio at [My Portfolio and Work Archive](http://mohnish.site/)
 * 🚀  I'm currently working on [Opscraft MLOps framework](http://https://www.opscraft.cloud/)
 * 🧠  I'm currently learning AI compilers
