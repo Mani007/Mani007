@@ -1,4 +1,4 @@
-Hi, I am Mohnish Awade
+Hi, I am Mohnish 
 ======================================================================================================================================
 
 Senior Software Engineer | Backend-Focused Full-Stack | Python, C/C++, JS | 10+ Years Experience | Algorithms, ML from Scratch, Code Quality Specialist | AI-Generated Code Refactoring
